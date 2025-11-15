@@ -18,12 +18,10 @@ Graph89 consistsrts.
 
 2. 	TiEmu ni/tiemu-3.03
 	The library has its own copyright notice located in jni/tiemu-3.03
-	Note that the TiEmu library included in Graph89 is not in its original state. TiEmu is modified to compile in the Android OS. Certain parts might be removed or modified for different reasons.
-	The original TiEmu library is located in http://lpg.ticalc.org/prj_tiemu/
+	Note that 
 
 3. /tilem-2.0
-	The library has its own copyright notice located in jni/tilem-2.0
-	Note that the TilEm library included in Graph89 is not in its original state. TiEmu is modified to compile in the Android OS. Certain parts might be removed or modified or modified for different reasons.
+	The library has its own 
 	The original TilEm library is located in http://lpg.ticalc.org/prj_tilem/
 
 4. 	Graph89 Android. This is the  running in the Android OS. 
